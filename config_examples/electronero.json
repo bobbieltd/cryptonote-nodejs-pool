@@ -117,7 +117,7 @@
         "minPayment": 1000000000,
         "maxPayment": 250000000000,
         "maxTransactionAmount": 1000000000000,
-        "denomination": 100000000
+        "denomination": 10000
     },
 
     "blockUnlocker": {
